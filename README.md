@@ -1,2 +1,3 @@
-# CarRental
-Car rental management website based on php as a backend for univ web project
+# location de voitures
+
+Système de gestion de location de voitures basé sur HTML-CSS-JS-PHP-MYSQL
